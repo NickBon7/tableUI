@@ -1,4 +1,9 @@
+## ->run at the terminal: json-server --watch ./assets/json/db.json
+
+
 ## edit delete or add a row in a table!
+
+
 
 # Getting Started with Create React App
 
